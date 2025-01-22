@@ -14,3 +14,6 @@ Trello дошка доступна за посиланням:
 
   ## Website 
 [Тута](https://app.moqups.com/KH3TBssYpjEIovt1XvOlOyvhg2l6tO8y/view/page/abbf9ae17)
+
+ ## Canva
+[Тута](https://www.canva.com/design/DAGc8mbF0ho/XTly5MBknTAJGQ7YWFJyhg/edit?utm_content=DAGc8mbF0ho&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
