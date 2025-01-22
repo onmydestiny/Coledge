@@ -12,6 +12,5 @@
 Trello дошка доступна за посиланням:
 [Тута](https://trello.com/invite/b/678fd5faadfc682bbc980d9d/ATTI47f660b404a54a0e3302683fc2875c90ADB6A40D/моя-доска-trello)
 
-  ## Website
-Moqups site 
+  ## Website 
 [Тута](https://app.moqups.com/KH3TBssYpjEIovt1XvOlOyvhg2l6tO8y/view/page/abbf9ae17)
